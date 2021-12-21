@@ -1,4 +1,4 @@
-# Coded By : IqbalDev
+# Coded By : HanzDev
 import requests, os
 banner = '''\033[96;1m
 __________       __             .____                         __    
@@ -7,7 +7,7 @@ __________       __             .____                         __
  |    |   \  |  /    <  / __ \_ |    |___ / __ \|  |_> > __ \|    < 
  |______  /____/|__|_ \(____  / |_______ (____  /   __(____  /__|_ \\
         \/           \/     \/          \/    \/|__|       \/     \/
- 	\033[92;1m   Coded By : Iqbal Dev  / {  B U K A  L A P A K  } 
+ 	\033[92;1m   Coded By : Hanz Dev  / {  B U K A  L A P A K  } 
     \033[97;1m    +-----------------------------------------------------+  
 	\033[92;1m   Belanja Bisa Disesuaikan Dengan Isi Dompet Kita \033[97;1m''' 
 
